@@ -212,7 +212,7 @@ $setting = fetch_settings();
         </section>
     </div>
 
-    <footer>&copy; 2024 Sistem Infaq Keluarga</footer>
+    <footer>&copy; 2025 Sistem Infaq Keluarga</footer>
 
     <script>
         const SETTING = {
