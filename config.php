@@ -1,5 +1,5 @@
 <?php
-// Versi tanpa database: file ini hanya memuat konstanta jalur/URL.
+
 
 // ====== PATH & URL BASE ======
 if (!defined('BASE_PATH')) {
@@ -20,4 +20,3 @@ if (!defined('BASE_URL')) {
     }
 }
 
-// Versi tanpa database: tidak ada koneksi database yang dibuat di sini.
